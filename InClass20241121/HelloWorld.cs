@@ -7,5 +7,6 @@ namespace InClass20241121
 {
     public class HelloWorld
     {
+        // hi
     }
 }
